@@ -133,3 +133,4 @@ airflow variables set                     | Set variable
 
 
 https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211
+https://towardsdatascience.com/run-airflow-docker-1b83a57616fb
