@@ -5,3 +5,7 @@ Steps to start apache nifi
 >>open https://127.0.0.1:8443/nifi/ in browser(it's not responding with localhost:8443/nifi)
 >>navigate to logs/nifi-app.log/
 >>from here we can get userid and password for logging into homepage
+
+
+Apache Airflow
+https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211
